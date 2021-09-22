@@ -1,0 +1,31 @@
+.title{
+    margin-bottom: 20px;
+    text-align:center;
+    width: 210px;
+    color: blue;
+    border: solid black 2px;
+    }
+
+    input[type="button"]
+    {
+        height: 20px;
+        width: 30px;
+    background-color:blueviolet;
+    color: black;
+    border: solid black 2px;
+    
+      
+    }
+
+    input[type="text"]
+    {
+    background-color:white;
+    border: solid black 2px;
+    width:100%
+    }
+
+    table{
+            height: 100px;
+            width: 100px;
+    }
+    
