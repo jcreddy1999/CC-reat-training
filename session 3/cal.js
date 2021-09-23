@@ -14,3 +14,7 @@ function clr()
          {
              document.getElementById("result").value = ""
          }
+function del() 
+        {
+        document.getElementById("result").value = value.remove(0, value.length - 1)
+    }
