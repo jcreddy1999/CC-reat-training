@@ -16,5 +16,6 @@ function clr()
          }
 function del() 
         {
-        document.getElementById("result").value = value.remove(0, value.length - 1)
-    }
+        document.getElementById("result").value = value.slice(0,-1)
+        }
+    
